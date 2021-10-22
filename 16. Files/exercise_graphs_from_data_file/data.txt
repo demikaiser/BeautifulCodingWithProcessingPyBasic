@@ -1,0 +1,7 @@
+apple 5
+banana 9
+orange 6
+melon 2
+strawberry 7
+pear 4
+mango 3
